@@ -1,0 +1,6 @@
+/Users/ishitasankrityayan/Projects/CarRentalAssignment/CarRentalAssignment.Tests/bin/Debug/net6.0/CoverletSourceRootsMapping_CarRentalAssignment.Tests
+/Users/ishitasankrityayan/Projects/CarRentalAssignment/CarRentalAssignment.Tests/obj/Debug/net6.0/CarRentalAssignment.Tests.csproj.AssemblyReference.cache
+/Users/ishitasankrityayan/Projects/CarRentalAssignment/CarRentalAssignment.Tests/obj/Debug/net6.0/CarRentalAssignment.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ishitasankrityayan/Projects/CarRentalAssignment/CarRentalAssignment.Tests/obj/Debug/net6.0/CarRentalAssignment.Tests.AssemblyInfoInputs.cache
+/Users/ishitasankrityayan/Projects/CarRentalAssignment/CarRentalAssignment.Tests/obj/Debug/net6.0/CarRentalAssignment.Tests.AssemblyInfo.cs
+/Users/ishitasankrityayan/Projects/CarRentalAssignment/CarRentalAssignment.Tests/obj/Debug/net6.0/CarRentalAssignment.Tests.csproj.CoreCompileInputs.cache

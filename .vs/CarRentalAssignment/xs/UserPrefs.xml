@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{7334DFF3-569A-4ACF-9A01-93EBBEBA806B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CarRentalAssignment.Test FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarRentalAssignment.Tests/UnitTest1.cs">
+    <Files>
+      <File FileName="CarRentalAssignment/BLL/Interface/ICarLease.cs" Line="1" Column="1" />
+      <File FileName="CarRentalAssignment/BLL/Repository/CarLease.cs" Line="46" Column="36" />
+      <File FileName="CarRentalAssignment/BLL/Service/CarService.cs" />
+      <File FileName="CarRentalAssignment/Program.cs" />
+      <File FileName="CarRentalAssignment/DAL/Models/Customer.cs" />
+      <File FileName="CarRentalAssignment/Utilities/ConnectionStringUtility.cs" />
+      <File FileName="CarRentalAssignment/BLL/Interface/ICarRepo.cs" Line="1" Column="1" />
+      <File FileName="CarRentalAssignment/appsettings.json" />
+      <File FileName="CarRentalAssignment/DAL/Models/Car.cs" />
+      <File FileName="CarRentalAssignment/DAL/Models/DailyLease.cs" />
+      <File FileName="CarRentalAssignment/DAL/Models/Lease.cs" />
+      <File FileName="CarRentalAssignment/DAL/Models/MonthlyLease.cs" />
+      <File FileName="CarRentalAssignment/DAL/Models/Motorcycle.cs" />
+      <File FileName="CarRentalAssignment/Exceptions/CarNotFounException.cs" />
+      <File FileName="CarRentalAssignment/Exceptions/CustomerNotFoundException.cs" />
+      <File FileName="CarRentalAssignment/Exceptions/LeaseNotFoundException.cs" />
+      <File FileName="CarRentalAssignment.Tests/UnitTest1.cs" Line="45" Column="15" />
+      <File FileName="CarRentalAssignment.Tests/CarRentalAssignment.Tests.csproj" Line="11" Column="1" />
+      <File FileName="CarRentalAssignment.Tests/Usings.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CarRentalAssignment" expanded="True">
+            <Node name="Solution Items" expanded="True">
+              <Node name="CarRentalAssignment" expanded="True">
+                <Node name="BLL" expanded="True">
+                  <Node name="Interface" expanded="True" />
+                  <Node name="Repository" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="CarRentalAssignment.Tests" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CarRentalAssignment" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Solution_220Items.CarRentalAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
